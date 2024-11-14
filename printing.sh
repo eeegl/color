@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source "${SCRIPTS}/color/styles.sh"
+source "${EEEGL_COLOR_DIR}/styles.sh"
 
 #
 # Prints a styled message.
